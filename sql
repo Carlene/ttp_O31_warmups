@@ -26,6 +26,7 @@ FROM
 -- is that each customer is currently worth at least $100 in yearly spending. 
 -- Your boss has already made this promise to the CEO.
 
+
 -- Given our data (which is only a sample out of all of our customers), and that we want to be 99%
 -- confident that our plan is going to work, we want compelling evidence that the TRUE customer 
 -- average spending per year is more than $100. 
